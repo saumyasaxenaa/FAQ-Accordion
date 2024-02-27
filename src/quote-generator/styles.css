@@ -1,0 +1,18 @@
+main {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.quote {
+  margin-top: 100px;
+  display: grid;
+  place-items: center;
+  border: 2px solid gray;
+  padding: 20px 10px 10px 20px;
+  background-color: lightcyan;
+  border-radius: 12px;
+}
+
+h1 {
+  font-size: 2rem;
+}
