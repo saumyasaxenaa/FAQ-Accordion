@@ -1,0 +1,45 @@
+.container {
+  background-color: lightsteelblue;
+  max-width: 600px;
+  padding: 10px 20px 30px;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container h2 {
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0 20px 0;
+  color: black;
+}
+
+button {
+  background: lightcyan;
+  color: blue;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+section div,
+section p {
+  background-color: lightcyan;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  margin-top: 0px;
+  border-radius: 10px;
+}
+
+section p {
+  padding-bottom: 20px;
+}
+
+section > div.closed {
+  margin-bottom: 20px;
+}
