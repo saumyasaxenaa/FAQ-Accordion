@@ -1,0 +1,41 @@
+.shopping-list {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 400px;
+}
+
+.shopping-list {
+  margin-top: 50px;
+  background-color: rgb(208, 112, 170);
+  border: 2px dashed black;
+  border-radius: 12px;
+}
+
+.delete {
+  background: transparent;
+  border: none;
+  color: yellow;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.shopping-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0;
+  flex-direction: column;
+}
+
+.delete-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.add-button {
+  font-size: 15px;
+}

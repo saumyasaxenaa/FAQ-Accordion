@@ -6,6 +6,8 @@
 
 ## Project 3: Quote Generator
 
+## Project 4: Shopping List
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
