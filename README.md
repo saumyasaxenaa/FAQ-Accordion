@@ -1,5 +1,11 @@
 # React Projects
 
+## Project 1: FAQ/Accordion
+
+## Project 2: Image Carousel
+
+## Project 3: Quote Generator
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
