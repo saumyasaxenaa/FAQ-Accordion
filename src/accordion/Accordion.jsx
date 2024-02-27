@@ -4,10 +4,10 @@ import "./styles.css";
 const Accordian = () => {
   return (
     <>
-      <h1>FAQ/Accordian</h1>
+      <h1>FAQ/Accordion</h1>
       <div className="container">
         <h2>Frequently Asked Questions</h2>
-        <div className="questions">
+        <div>
           {questions.map((question) => (
             <Question key={question.id} question={question} />
           ))}
